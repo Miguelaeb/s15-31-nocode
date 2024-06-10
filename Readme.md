@@ -40,9 +40,12 @@ Link: https://preview.webflow.com/preview/cursoss-exceptional-site?utm_medium=pr
 # 5. Integrantes**
 
 Nombre: Miguel Evangelista
-Nacionalidad: Dominicano
-Rol: Desarrollador (UI designer si es necesario)
+Nacionalidad: Dominicano 
+
+Rol: Desarrollador UI designer y Desarrollador
+
 Github: https://github.com/Miguelaeb
+
 LinkedIn: https://www.linkedin.com/in/miguel-evangelista-8458b9150/
 
 Nombre: Gabriela Sastre
