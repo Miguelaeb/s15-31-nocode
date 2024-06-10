@@ -1,3 +1,5 @@
+*_PROYECTO INSTUTO AURORA_*
+
 Descripción del Proyecto
 
 Instituto Aurora es un proyecto no code de plataforma educativa, diseñada para mejorar la experiencia de comunicación en cualquier centro educativo. Esta plataforma ofrece una variedad de herramientas y recursos para facilitar la interacción entre docentes y alumnos, así como para mantener a la comunidad educativa informada sobre noticias y eventos importantes.
