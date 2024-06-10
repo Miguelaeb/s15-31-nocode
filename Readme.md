@@ -1,4 +1,4 @@
-*_PROYECTO INSTUTO AURORA_*
+*PROYECTO INSTUTO AURORA*
 
 Descripción del Proyecto
 
