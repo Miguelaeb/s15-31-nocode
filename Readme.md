@@ -21,17 +21,14 @@ La plataforma incluye un segmento de noticias para que toda la comunidad educati
 - Actualizaciones y anuncios relevantes para estudiantes, padres y docentes.
 
 
+# 3. Cómo Empezar
 
+# 3.1 Para Alumnos
+- Acceso Aula Virtual: Accede a tu aula virtual ingresando el password provisto por la institución, accede a tus cursos asignados desde la sección de Aula Virtual.
 
-Cómo Empezar
-
-Para Alumnos
-2. Acceso Aula Virtual: Accede a tu aula virtual ingresando el password provisto por la institución, accede a tus cursos asignados desde la sección de Aula Virtual.
-
-
-Para Docentes
-1. Acceso Aula Virtual: Accede a tu aula virtual ingresando el password provisto por la institución.
-2. Creación de Cursos: Configura tus cursos y sube las notas de tus clases.
+# 3.2 Para Docentes
+- Acceso Aula Virtual: Accede a tu aula virtual ingresando el password provisto por la institución.
+- Creación de Cursos: Configura tus cursos y sube las notas de tus clases.
 
 En la sección preguntas frecuentes, responderán todas sus consultas.
 
