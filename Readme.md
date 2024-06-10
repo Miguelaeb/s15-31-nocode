@@ -1,4 +1,6 @@
-*PROYECTO INSTUTO AURORA*
+# Hi there! We are s15-31-nocode
+# WebApp Edtech "Aurora Institute"
+# PROYECTO INSTUTO AURORA
 
 Descripción del Proyecto
 
