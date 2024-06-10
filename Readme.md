@@ -2,17 +2,17 @@
 # WebApp Edtech "Aurora Institute"
 # PROYECTO INSTUTO AURORA
 
-Descripción del Proyecto
+# Descripción del Proyecto
 
 Instituto Aurora es un proyecto no code de plataforma educativa, diseñada para mejorar la experiencia de comunicación en cualquier centro educativo. Esta plataforma ofrece una variedad de herramientas y recursos para facilitar la interacción entre docentes y alumnos, así como para mantener a la comunidad educativa informada sobre noticias y eventos importantes.
 
-Características Principales
+# Características Principales
 
-1. Presentación del Centro Educativo
+# 1. Presentación del Centro Educativo
 
 Nuestra plataforma incluye una sección dedicada a la presentación del centro educativo, donde se puede encontrar información sobre la propuesta educativa, visión, valores y la historia del centro. Esta sección también puede proporcionar una visión general de las instalaciones, personal administrativo y cuerpo docente.
 
-2. Segmento de Noticias y Eventos Especiales
+# 2. Segmento de Noticias y Eventos Especiales
 
 La plataforma incluye un segmento de noticias para que toda la comunidad educativa esté al tanto de los principales acontecimientos, eventos sociales y deportivos de interés general. Esta sección permite a la comunidad educativa estar al tanto de:
 
