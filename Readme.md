@@ -34,3 +34,8 @@ En la sección preguntas frecuentes, responderán todas sus consultas.
 
 ¡Gracias por visitar nuestra plataforma para potenciar tu experiencia de aprendizaje y enseñanza!
 
+# 4. Deploy de la app**
+Link: https://preview.webflow.com/preview/cursoss-exceptional-site?utm_medium=preview_link&utm_source=designer&utm_content=cursoss-exceptional-site&preview=33035cd7a9ecfc10f167236c0313e5b9&workflow=preview
+
+# 5. Integrantes**
+
