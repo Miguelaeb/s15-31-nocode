@@ -39,3 +39,27 @@ Link: https://preview.webflow.com/preview/cursoss-exceptional-site?utm_medium=pr
 
 # 5. Integrantes**
 
+Nombre: Miguel Evangelista
+Nacionalidad: Dominicano
+Rol: Desarrollador (UI designer si es necesario)
+Github: https://github.com/Miguelaeb
+LinkedIn: https://www.linkedin.com/in/miguel-evangelista-8458b9150/
+
+Nombre: Gabriela Sastre
+Nacionalidad: Argentina
+Rol: Diseño
+Github: https://github.com/Gabrielas82
+LinkedIn: https://www.linkedin.com/in/gabriela-sastre-50a688ba
+
+Nombre: Katya Anco
+Nacionalidad:Peruana
+Rol: Desarrollador,Fronted
+Github:https://github.com/katy089
+Linkedin: https://www.linkedin.com/in/katya-anco/
+
+Nombre: Ailen Rivera 
+Nacionalidad:Arg
+Rol: Diseñadora ux ui 
+Github: https://www.datacamp.com/portfolio/ailenriveradis
+Linkedin:https://www.linkedin.com/in/ailenrivera-diseñadoraaudiovisual/                                                                                                                                     
+Behance: https://www.behance.net/ailenriver1cea
