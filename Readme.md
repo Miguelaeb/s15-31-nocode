@@ -57,6 +57,14 @@ Rol: Desarrollador,Fronted
 Github:https://github.com/katy089
 Linkedin: https://www.linkedin.com/in/katya-anco/
 
+### Technologies used for communication
+
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=fff) 
+![Slack](https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=Slack&logoColor=white) 
+![Google Meet](https://img.shields.io/badge/Google_Meet-FF0000?style=for-the-badge&logo=Google-Meet&logoColor=fff) 
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=fff)
+![Github](https://img.shields.io/badge/github-00000?style=for-the-badge&logo=github&color=black)
+
 Nombre: Ailen Rivera 
 Nacionalidad:Arg
 Rol: Diseñadora ux ui 
